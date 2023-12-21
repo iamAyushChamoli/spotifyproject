@@ -132,10 +132,12 @@ a{
 }
 .sticky-nav-icons {
     margin-left: 0.75rem;
+}
+.arrow{
     opacity: 0.7;
 }
 
-.sticky-nav-icons:hover {
+.arrow:hover {
     opacity: 1;
 }
 
