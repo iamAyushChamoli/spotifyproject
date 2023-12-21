@@ -308,3 +308,13 @@ a{
 .album-plus:hover{
     opacity: 1;
 }
+.control-icons i{
+    margin: 0.5rem;
+    opacity: 0.7;
+}
+.control-icons i:hover{
+    opacity: 1;
+}
+.control{
+    margin-right: 2rem;
+}
