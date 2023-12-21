@@ -269,3 +269,42 @@ a{
     border-radius: 50%;
     margin-top: -6.5px;
 }
+.album{
+    display: flex;
+}
+
+.album-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.album-image{
+    height: 3rem;
+    width: 3rem;
+    margin: 0.6rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+ 
+.album-song{
+    font-weight: 700;
+    font-size: 0.7rem;
+    cursor: pointer;
+    opacity: .8;
+}
+.album-song:hover{
+    opacity: 1;
+}
+.artist{
+    font-weight: 300;
+    font-size:0.6rem ;
+}
+.album-plus{
+    margin-left: 1rem;
+    height: 10px;
+    opacity: .7;
+}
+.album-plus:hover{
+    opacity: 1;
+}
